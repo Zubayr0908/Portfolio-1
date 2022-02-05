@@ -1,0 +1,36 @@
+.text{
+    margin:40px 0 0 100px;
+}
+.img{
+    height:70px;
+}
+.png{
+    position: absolute;
+    z-index: 1;
+    left: 260px;
+    top: px;
+}
+.card{
+    z-index: -1;
+    border-radius: 20px;
+}
+.pnb{
+    position: absolute;
+    z-index: 1;
+    left: 265px;
+    top: px;
+    width:19%;
+}
+.icon{
+    z-index: 1;
+}
+.card-body{
+    background-color: #EFF8FF;
+    border-radius: 20px;
+}
+.mt4{
+    margin: 40px 0 0 0;
+}
+.bg{
+    border-radius: 50%;
+}
